@@ -1,2 +1,1 @@
-# Bootcamp-project
-Shape ai bootcamp project on weather app
+# A Simple Weather APP
