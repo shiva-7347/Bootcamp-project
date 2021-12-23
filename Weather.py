@@ -36,4 +36,3 @@ f.write("Current Weather description : {}\n".format(weather_desc))
 f.write("Current Humidity            : {} %\n".format(humidt))
 f.write("Current wind speed          : {} kmph\n".format(wind_speed))
 f.close()
-#file closed
